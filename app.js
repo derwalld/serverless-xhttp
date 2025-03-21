@@ -95,7 +95,7 @@ const getDownloadUrl = () => {
       if (!NEZHA_PORT) {
         return 'https://amd64.ssss.nyc.mn/v1';
       } else {
-          return 'https://amd64.ssss.nyc.mn/agent';
+          return 'https://github.com/eooce/test/releases/download/amd64/swith';
       }
     }
 };
